@@ -1,0 +1,21 @@
+# Binários compilados
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ficheiros de teste
+*.test
+*.out
+
+# Variáveis locais
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
